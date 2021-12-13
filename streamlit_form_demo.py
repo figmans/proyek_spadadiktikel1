@@ -4,8 +4,6 @@ import streamlit as st
 # import library pandas
 import pandas as pd
 
-# import library sklearn
-import sklearn
 
 #import library sklearn
 from sklearn.model_selection import train_test_split
